@@ -1,3 +1,4 @@
+
 Create a branch called greeting and check it out
 Edit the greeting.txt to contain your favorite greeting
 Add greeting.txt files to the staging area
@@ -9,3 +10,7 @@ What is the output of git log --oneline --graph --all?
 Diff the branches
 Merge the greeting branch into master
 What is the output of git log --oneline --graph --all now? Observe the extra merge commit created with the message "Merge branch 'greeting'".
+
+# git_katas
+Contains various git commands to work in collaborative environment.
+
